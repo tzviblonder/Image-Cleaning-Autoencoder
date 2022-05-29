@@ -1,4 +1,4 @@
-# Image-Cleaning-Autoencoder
+# Image Cleaning Autoencoder
 ## An autoencoder that cleans noisy images
 #### (If Github doesn't render the Jupyter notebook, it can be viewed here: https://nbviewer.org/github/tzviblonder/Image-Cleaning-Autoencoder/blob/main/Image%20Cleaner.ipynb)
 
